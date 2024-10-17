@@ -54,7 +54,9 @@ ll power(ll a,ll b){
     }return res;
 }
 
-
+void solve(){
+    
+}
 
 int main() {
     fast_io; // Enable fast input/output
